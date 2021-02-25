@@ -3,6 +3,7 @@ package chap03;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// binarySearch 사용
 public class BinarySearchTester {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
