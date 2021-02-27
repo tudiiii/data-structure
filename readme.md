@@ -5,3 +5,7 @@
 - 배열의 복제 메서드 `배열이름.clone()`
 - 소수찾기 알고리즘
 - 평년 윤년 구하기
+
+### chap03
+- 이진찾기 `Arrays.binarySearch`
+- 제네릭 정렬 `Compare`
