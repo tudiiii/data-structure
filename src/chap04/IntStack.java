@@ -22,7 +22,7 @@ public class IntStack {
         try {
             stk = new int[max]; // 스택 본체용 배열을 생성
         } catch (OutOfMemoryError e){ // 생성할 수 없음
-            max = 0;
+           max = 0;
         }
     }
 
